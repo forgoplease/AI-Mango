@@ -8,3 +8,6 @@ https://ithelp.ithome.com.tw/articles/10192162
 
 更動batch_size和learning rate
 https://docs.google.com/spreadsheets/d/13Twm_Syf1d-zhsY2pwLGj6XJ2YQZEUHn035bOWhtH1k/edit?usp=sharing
+
+.h5
+https://drive.google.com/drive/folders/145hXFZQ2YU1iraYvRsUlMs_OB5TxD0qL?usp=sharing
