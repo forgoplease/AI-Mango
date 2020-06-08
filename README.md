@@ -11,3 +11,5 @@ https://docs.google.com/spreadsheets/d/13Twm_Syf1d-zhsY2pwLGj6XJ2YQZEUHn035bOWht
 
 .h5
 https://drive.google.com/drive/folders/145hXFZQ2YU1iraYvRsUlMs_OB5TxD0qL?usp=sharing
+
+bagging裡的model是上面的.h5檔，只是改名
